@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>Web 26 is Awesome</h1>
       <h2>
-        Deployed with{' '}
+        Deployed with love using {' '}
         <a
           href="https://zeit.co/docs"
           target="_blank"
